@@ -1,2 +1,2 @@
-# Progmod_projekt
+# Projektmunka dokumentáció
 Programozás módszertan I leadandó
